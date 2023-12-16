@@ -2,6 +2,8 @@
   "name": "post_notification_service",
   "version": "1.0.0",
   "dependencies": {
-    "kafka-node": "^5.0.0"
+    "kafka-node": "^5.0.0",
+    "uuid": "^9.0.1",
+    "ws": "^8.15.1"
   }
 }
